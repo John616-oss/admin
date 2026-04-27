@@ -40,10 +40,22 @@
             dataGridView1 = new DataGridView();
             txtSearch = new TextBox();
             button1 = new Button();
+            panel3 = new Panel();
+            textBox1 = new TextBox();
+            textBox2 = new TextBox();
+            textBox3 = new TextBox();
+            textBox4 = new TextBox();
+            button2 = new Button();
+            button3 = new Button();
+            label3 = new Label();
+            label4 = new Label();
+            label5 = new Label();
+            label6 = new Label();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            panel3.SuspendLayout();
             SuspendLayout();
             // 
             // panel1
@@ -179,11 +191,112 @@
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
+            // panel3
+            // 
+            panel3.BackColor = Color.Blue;
+            panel3.Controls.Add(label6);
+            panel3.Controls.Add(label5);
+            panel3.Controls.Add(label4);
+            panel3.Controls.Add(label3);
+            panel3.Controls.Add(button3);
+            panel3.Controls.Add(button2);
+            panel3.Controls.Add(textBox4);
+            panel3.Controls.Add(textBox3);
+            panel3.Controls.Add(textBox2);
+            panel3.Controls.Add(textBox1);
+            panel3.Location = new Point(753, 61);
+            panel3.Name = "panel3";
+            panel3.Size = new Size(407, 405);
+            panel3.TabIndex = 5;
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(106, 60);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(195, 23);
+            textBox1.TabIndex = 0;
+            // 
+            // textBox2
+            // 
+            textBox2.Location = new Point(106, 105);
+            textBox2.Name = "textBox2";
+            textBox2.Size = new Size(195, 23);
+            textBox2.TabIndex = 1;
+            // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(106, 151);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(195, 23);
+            textBox3.TabIndex = 2;
+            // 
+            // textBox4
+            // 
+            textBox4.Location = new Point(106, 201);
+            textBox4.Name = "textBox4";
+            textBox4.Size = new Size(195, 23);
+            textBox4.TabIndex = 3;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(106, 240);
+            button2.Name = "button2";
+            button2.Size = new Size(195, 31);
+            button2.TabIndex = 4;
+            button2.Text = "button2";
+            button2.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
+            button3.Location = new Point(106, 284);
+            button3.Name = "button3";
+            button3.Size = new Size(195, 31);
+            button3.TabIndex = 5;
+            button3.Text = "button3";
+            button3.UseVisualStyleBackColor = true;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(106, 33);
+            label3.Name = "label3";
+            label3.Size = new Size(38, 15);
+            label3.TabIndex = 6;
+            label3.Text = "label3";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(106, 87);
+            label4.Name = "label4";
+            label4.Size = new Size(38, 15);
+            label4.TabIndex = 7;
+            label4.Text = "label4";
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(106, 133);
+            label5.Name = "label5";
+            label5.Size = new Size(38, 15);
+            label5.TabIndex = 8;
+            label5.Text = "label5";
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Location = new Point(106, 183);
+            label6.Name = "label6";
+            label6.Size = new Size(38, 15);
+            label6.TabIndex = 9;
+            label6.Text = "label6";
+            // 
             // admin
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1155, 465);
+            Controls.Add(panel3);
             Controls.Add(button1);
             Controls.Add(txtSearch);
             Controls.Add(dataGridView1);
@@ -199,6 +312,8 @@
             panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            panel3.ResumeLayout(false);
+            panel3.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -216,5 +331,16 @@
         private TextBox txtSearch;
         private Button btnLog;
         private Button button1;
+        private Panel panel3;
+        private Label label6;
+        private Label label5;
+        private Label label4;
+        private Label label3;
+        private Button button3;
+        private Button button2;
+        private TextBox textBox4;
+        private TextBox textBox3;
+        private TextBox textBox2;
+        private TextBox textBox1;
     }
 }

@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{14DF76BF-7908-4742-B4EC-F070741ABCB0}|jollibe menu\\jollibe menu.csproj|c:\\users\\rosalyn\\source\\repos\\john616-oss\\admin\\jollibe menu\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{14DF76BF-7908-4742-B4EC-F070741ABCB0}|jollibe menu\\jollibe menu.csproj|solutionrelative:jollibe menu\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DF76BF-7908-4742-B4EC-F070741ABCB0}|jollibe menu\\jollibe menu.csproj|c:\\users\\rosalyn\\source\\repos\\john616-oss\\admin\\jollibe menu\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DF76BF-7908-4742-B4EC-F070741ABCB0}|jollibe menu\\jollibe menu.csproj|solutionrelative:jollibe menu\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin.cs",
+              "DocumentMoniker": "C:\\Users\\rosalyn\\source\\repos\\John616-oss\\admin\\jollibe menu\\admin.cs",
+              "RelativeDocumentMoniker": "jollibe menu\\admin.cs",
+              "ToolTip": "C:\\Users\\rosalyn\\source\\repos\\John616-oss\\admin\\jollibe menu\\admin.cs",
+              "RelativeToolTip": "jollibe menu\\admin.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA4wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:31:30.489Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
