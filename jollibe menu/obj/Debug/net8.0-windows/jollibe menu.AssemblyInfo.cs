@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jollibe menu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19cc44aef5ce473cee5356c53d2a5a08947c9d30")]
 [assembly: System.Reflection.AssemblyProductAttribute("jollibe menu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jollibe menu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

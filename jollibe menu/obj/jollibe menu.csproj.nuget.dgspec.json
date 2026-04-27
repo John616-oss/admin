@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rosalyn\\Downloads\\admin_dashboard-master\\admin_dashboard-master\\jollibe menu\\jollibe menu.csproj": {}
+    "C:\\Users\\rosalyn\\source\\repos\\John616-oss\\admin\\jollibe menu\\jollibe menu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rosalyn\\Downloads\\admin_dashboard-master\\admin_dashboard-master\\jollibe menu\\jollibe menu.csproj": {
+    "C:\\Users\\rosalyn\\source\\repos\\John616-oss\\admin\\jollibe menu\\jollibe menu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rosalyn\\Downloads\\admin_dashboard-master\\admin_dashboard-master\\jollibe menu\\jollibe menu.csproj",
+        "projectUniqueName": "C:\\Users\\rosalyn\\source\\repos\\John616-oss\\admin\\jollibe menu\\jollibe menu.csproj",
         "projectName": "jollibe menu",
-        "projectPath": "C:\\Users\\rosalyn\\Downloads\\admin_dashboard-master\\admin_dashboard-master\\jollibe menu\\jollibe menu.csproj",
+        "projectPath": "C:\\Users\\rosalyn\\source\\repos\\John616-oss\\admin\\jollibe menu\\jollibe menu.csproj",
         "packagesPath": "C:\\Users\\rosalyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rosalyn\\Downloads\\admin_dashboard-master\\admin_dashboard-master\\jollibe menu\\obj\\",
+        "outputPath": "C:\\Users\\rosalyn\\source\\repos\\John616-oss\\admin\\jollibe menu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rosalyn\\AppData\\Roaming\\NuGet\\NuGet.Config",

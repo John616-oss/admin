@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d3KBj0ltSZM=",
+  "dgSpecHash": "p5popWkHbrI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rosalyn\\Downloads\\admin_dashboard-master\\admin_dashboard-master\\jollibe menu\\jollibe menu.csproj",
+  "projectFilePath": "C:\\Users\\rosalyn\\source\\repos\\John616-oss\\admin\\jollibe menu\\jollibe menu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rosalyn\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\rosalyn\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
