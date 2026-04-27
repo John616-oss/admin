@@ -1,0 +1,36 @@
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\jollibe menu.exe
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\jollibe menu.deps.json
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\jollibe menu.runtimeconfig.json
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\jollibe menu.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\jollibe menu.pdb
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe menu.csproj.AssemblyReference.cache
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe_menu.admin.resources
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe_menu.Cashier.resources
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe_menu.Form1.resources
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe_menu.Password.resources
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe_menu.Properties.Resources.resources
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe_menu.RegisterForm.resources
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe menu.csproj.GenerateResource.cache
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe menu.AssemblyInfoInputs.cache
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe menu.AssemblyInfo.cs
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe menu.csproj.CoreCompileInputs.cache
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe .F771CEBB.Up2Date
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe menu.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\refint\jollibe menu.dll
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe menu.pdb
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\jollibe menu.genruntimeconfig.cache
+C:\Users\rosalyn\Downloads\admin_dashboard-master\admin_dashboard-master\jollibe menu\obj\Debug\net8.0-windows\ref\jollibe menu.dll
