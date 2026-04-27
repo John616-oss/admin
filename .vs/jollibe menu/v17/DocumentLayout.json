@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{14DF76BF-7908-4742-B4EC-F070741ABCB0}|jollibe menu\\jollibe menu.csproj|solutionrelative:jollibe menu\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{14DF76BF-7908-4742-B4EC-F070741ABCB0}|jollibe menu\\jollibe menu.csproj|c:\\users\\rosalyn\\source\\repos\\john616-oss\\admin\\jollibe menu\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DF76BF-7908-4742-B4EC-F070741ABCB0}|jollibe menu\\jollibe menu.csproj|solutionrelative:jollibe menu\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14DF76BF-7908-4742-B4EC-F070741ABCB0}|jollibe menu\\jollibe menu.csproj|c:\\users\\rosalyn\\source\\repos\\john616-oss\\admin\\jollibe menu\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14DF76BF-7908-4742-B4EC-F070741ABCB0}|jollibe menu\\jollibe menu.csproj|solutionrelative:jollibe menu\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "admin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rosalyn\\source\\repos\\John616-oss\\admin\\jollibe menu\\admin.Designer.cs",
+              "RelativeDocumentMoniker": "jollibe menu\\admin.Designer.cs",
+              "ToolTip": "C:\\Users\\rosalyn\\source\\repos\\John616-oss\\admin\\jollibe menu\\admin.Designer.cs",
+              "RelativeToolTip": "jollibe menu\\admin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:36:27.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "admin.cs",
               "DocumentMoniker": "C:\\Users\\rosalyn\\source\\repos\\John616-oss\\admin\\jollibe menu\\admin.cs",
               "RelativeDocumentMoniker": "jollibe menu\\admin.cs",

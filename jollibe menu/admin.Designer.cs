@@ -41,16 +41,16 @@
             txtSearch = new TextBox();
             button1 = new Button();
             panel3 = new Panel();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            textBox4 = new TextBox();
-            button2 = new Button();
-            button3 = new Button();
-            label3 = new Label();
-            label4 = new Label();
-            label5 = new Label();
             label6 = new Label();
+            label5 = new Label();
+            label4 = new Label();
+            label3 = new Label();
+            button3 = new Button();
+            button2 = new Button();
+            textBox4 = new TextBox();
+            textBox3 = new TextBox();
+            textBox2 = new TextBox();
+            textBox1 = new TextBox();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
@@ -159,16 +159,16 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(224, 130);
+            dataGridView1.Location = new Point(217, 113);
             dataGridView1.Margin = new Padding(3, 2, 3, 2);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(529, 326);
+            dataGridView1.Size = new Size(580, 353);
             dataGridView1.TabIndex = 2;
             // 
             // txtSearch
             // 
-            txtSearch.Location = new Point(457, 105);
+            txtSearch.Location = new Point(492, 85);
             txtSearch.Margin = new Padding(3, 2, 3, 2);
             txtSearch.Name = "txtSearch";
             txtSearch.PlaceholderText = "Search here";
@@ -182,10 +182,10 @@
             button1.FlatStyle = FlatStyle.Popup;
             button1.Font = new Font("Microsoft YaHei UI", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.ForeColor = SystemColors.ButtonFace;
-            button1.Location = new Point(658, 106);
+            button1.Location = new Point(694, 83);
             button1.Margin = new Padding(3, 2, 3, 2);
             button1.Name = "button1";
-            button1.Size = new Size(95, 22);
+            button1.Size = new Size(95, 26);
             button1.TabIndex = 4;
             button1.Text = "SEARCH";
             button1.UseVisualStyleBackColor = false;
@@ -193,7 +193,7 @@
             // 
             // panel3
             // 
-            panel3.BackColor = Color.Blue;
+            panel3.BackColor = Color.LightSteelBlue;
             panel3.Controls.Add(label6);
             panel3.Controls.Add(label5);
             panel3.Controls.Add(label4);
@@ -204,92 +204,92 @@
             panel3.Controls.Add(textBox3);
             panel3.Controls.Add(textBox2);
             panel3.Controls.Add(textBox1);
-            panel3.Location = new Point(753, 61);
+            panel3.Location = new Point(795, 61);
             panel3.Name = "panel3";
-            panel3.Size = new Size(407, 405);
+            panel3.Size = new Size(365, 405);
             panel3.TabIndex = 5;
             // 
-            // textBox1
+            // label6
             // 
-            textBox1.Location = new Point(106, 60);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(195, 23);
-            textBox1.TabIndex = 0;
+            label6.AutoSize = true;
+            label6.Location = new Point(93, 190);
+            label6.Name = "label6";
+            label6.Size = new Size(38, 15);
+            label6.TabIndex = 9;
+            label6.Text = "label6";
             // 
-            // textBox2
+            // label5
             // 
-            textBox2.Location = new Point(106, 105);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(195, 23);
-            textBox2.TabIndex = 1;
+            label5.AutoSize = true;
+            label5.Location = new Point(93, 140);
+            label5.Name = "label5";
+            label5.Size = new Size(38, 15);
+            label5.TabIndex = 8;
+            label5.Text = "label5";
             // 
-            // textBox3
+            // label4
             // 
-            textBox3.Location = new Point(106, 151);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(195, 23);
-            textBox3.TabIndex = 2;
+            label4.AutoSize = true;
+            label4.Location = new Point(93, 94);
+            label4.Name = "label4";
+            label4.Size = new Size(38, 15);
+            label4.TabIndex = 7;
+            label4.Text = "label4";
             // 
-            // textBox4
+            // label3
             // 
-            textBox4.Location = new Point(106, 201);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(195, 23);
-            textBox4.TabIndex = 3;
-            // 
-            // button2
-            // 
-            button2.Location = new Point(106, 240);
-            button2.Name = "button2";
-            button2.Size = new Size(195, 31);
-            button2.TabIndex = 4;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
+            label3.AutoSize = true;
+            label3.Location = new Point(93, 40);
+            label3.Name = "label3";
+            label3.Size = new Size(38, 15);
+            label3.TabIndex = 6;
+            label3.Text = "label3";
             // 
             // button3
             // 
-            button3.Location = new Point(106, 284);
+            button3.Location = new Point(93, 291);
             button3.Name = "button3";
             button3.Size = new Size(195, 31);
             button3.TabIndex = 5;
             button3.Text = "button3";
             button3.UseVisualStyleBackColor = true;
             // 
-            // label3
+            // button2
             // 
-            label3.AutoSize = true;
-            label3.Location = new Point(106, 33);
-            label3.Name = "label3";
-            label3.Size = new Size(38, 15);
-            label3.TabIndex = 6;
-            label3.Text = "label3";
+            button2.Location = new Point(93, 247);
+            button2.Name = "button2";
+            button2.Size = new Size(195, 31);
+            button2.TabIndex = 4;
+            button2.Text = "button2";
+            button2.UseVisualStyleBackColor = true;
             // 
-            // label4
+            // textBox4
             // 
-            label4.AutoSize = true;
-            label4.Location = new Point(106, 87);
-            label4.Name = "label4";
-            label4.Size = new Size(38, 15);
-            label4.TabIndex = 7;
-            label4.Text = "label4";
+            textBox4.Location = new Point(93, 208);
+            textBox4.Name = "textBox4";
+            textBox4.Size = new Size(195, 23);
+            textBox4.TabIndex = 3;
             // 
-            // label5
+            // textBox3
             // 
-            label5.AutoSize = true;
-            label5.Location = new Point(106, 133);
-            label5.Name = "label5";
-            label5.Size = new Size(38, 15);
-            label5.TabIndex = 8;
-            label5.Text = "label5";
+            textBox3.Location = new Point(93, 158);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(195, 23);
+            textBox3.TabIndex = 2;
             // 
-            // label6
+            // textBox2
             // 
-            label6.AutoSize = true;
-            label6.Location = new Point(106, 183);
-            label6.Name = "label6";
-            label6.Size = new Size(38, 15);
-            label6.TabIndex = 9;
-            label6.Text = "label6";
+            textBox2.Location = new Point(93, 112);
+            textBox2.Name = "textBox2";
+            textBox2.Size = new Size(195, 23);
+            textBox2.TabIndex = 1;
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(93, 67);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(195, 23);
+            textBox1.TabIndex = 0;
             // 
             // admin
             // 
